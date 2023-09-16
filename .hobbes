@@ -1,0 +1,7 @@
+{
+  "workflow": "DotNetV6ConsoleApp",
+  "scores": {
+    "commanderTests":50,
+    "cadetTests":50
+  }
+}
